@@ -1,5 +1,7 @@
 # fortigate-nat64
 
+Reference from my blog.
+
 Topology
 
 ![image](https://user-images.githubusercontent.com/77621054/183476036-ccb1cbba-1654-4d1b-8e0b-0bb91ec93653.png)
