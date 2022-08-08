@@ -1,6 +1,6 @@
 # fortigate-nat64
 
-<H1>Reference from my blog.</H1>
+<H2>Reference from my blog.</H2>
 
 Topology
 
