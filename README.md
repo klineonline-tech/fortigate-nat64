@@ -47,9 +47,8 @@ Linux - v6 to v4
 Windows v6 to v4
 ![image](https://user-images.githubusercontent.com/77621054/183489341-9f2d2253-afb4-4fbb-9650-baf845e76e9d.png)
 
-
-
-
+Fortigate Traffic
+![image](https://user-images.githubusercontent.com/77621054/183490112-fa239a8b-e97b-48a5-be4b-403791f30191.png)
 
 
 
